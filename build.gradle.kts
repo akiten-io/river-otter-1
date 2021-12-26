@@ -33,7 +33,7 @@ dependencies {
 
     implementation("com.github.kittinunf.fuel:fuel:2.3.1")
 
-    testImplementation("de.flapdoodle.embed:de.flapdoodle.embed.mongo:3.2.4")
+    testImplementation("de.flapdoodle.embed:de.flapdoodle.embed.mongo:2.2.0")
 
     testImplementation("io.mockk:mockk:1.12.1")
     implementation("io.springfox:springfox-swagger2:3.0.0")
